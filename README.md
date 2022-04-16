@@ -13,7 +13,7 @@ This Project Using
 7. Battery LI-ION 3.7V 18650
 8. Battery Box 2X Size 18650
 9. Motor DC GearBox 
-10. Mini Nylon Wheel
+10. Mini Nylon Casters Wheel
 
 # Diagram
 
