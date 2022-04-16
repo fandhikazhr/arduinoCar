@@ -10,6 +10,9 @@ This Project Using
 4. Switch On/Off
 5. Mini Breadboard
 6. Buzzer
+7. Battery LI-ION 3.7V 18650
+8. Battery Box 2X Size 18650
+9. Motor DC GearBox 
 
 # Diagram
 
