@@ -6,6 +6,10 @@ Hello (ʘ‿ʘ)╯
 This Project Using
 1. Arduino Uno
 2. Arduino L293D Driver Motor Shield
+3. Jumper Cable
+4. Switch On/Off
+5. Mini Breadboard
+6. Buzzer
 
 # Diagram
 
