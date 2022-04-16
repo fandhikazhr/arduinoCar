@@ -5,6 +5,7 @@ Hello (ʘ‿ʘ)╯
 
 This Project Using
 1. Arduino Uno
+2. Arduino L293D Driver Motor Shield
 
 # Diagram
 
