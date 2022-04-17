@@ -49,4 +49,12 @@ void loop() {
     motor2.run(RELEASE); 
     delay(200);
   }
+  
+  else {
+    digitalWrite(buzzer, LOW);
+    delay (500);
+    motor1.run(FORWARD); 
+    motor2.run(FORWARD); 
+  }
+  
 }
