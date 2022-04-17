@@ -52,7 +52,7 @@ void loop() {
   
   else {
     digitalWrite(buzzer, LOW);
-    delay (500);
+    delay(500);
     motor1.run(FORWARD); 
     motor2.run(FORWARD); 
   }
