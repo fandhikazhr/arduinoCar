@@ -7,13 +7,15 @@ This Project Using
 1. Arduino Uno
 2. Arduino L293D Driver Motor Shield
 3. Jumper Cable
-4. Switch On/Off
+4. Ultrasonic Sensor HC-SR04
 5. Mini Breadboard
 6. Buzzer
 7. Battery LI-ION 3.7V 18650
 8. Battery Box 2X Size 18650
 9. Motor DC GearBox 
 10. Mini Nylon Casters Wheel
+11. Switch On/Off
+12. Wheels
 
 # Diagram
 
