@@ -25,5 +25,28 @@ void loop() {
   duration = pulseIn(echoPin, HIGH);
   distance = (duration / 2) / 29.1;
   Serial.println(distance);
-
+  if (distance < 40) { // distance sensor  
+    digitalWrite(buzzer, HIGH);
+    delay(200);
+    digitalWrite(buzzer, LOW);
+    motor1.run(RELEASE); 
+    motor2.run(RELEASE); 
+    delay(300);
+    
+    motor1.run(BACKWARD); 
+    motor2.run(BACKWARD); 
+    delay(500);
+    
+    motor1.run(RELEASE);
+    motor2.run(RELEASE);
+    delay(200);
+    
+    motor1.run(FORWARD); 
+    motor2.run(BACKWARD);
+    delay(500);
+    
+    motor1.run(RELEASE); 
+    motor2.run(RELEASE); 
+    delay(200);
+  }
 }
