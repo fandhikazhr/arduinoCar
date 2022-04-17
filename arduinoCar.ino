@@ -1,3 +1,7 @@
 #include <AFMotor.h>
-#define trigPin A5 //sensor ultrasonic pin TRIG to pin A0
-#define echoPin A4 //sensor ultrasonic pin ECHO to pin A1
+#define trigPin A5 
+#define echoPin A4 
+
+AF_DCMotor motor1(1, MOTOR12_1KHZ); 
+AF_DCMotor motor2(3, MOTOR12_1KHZ);
+int buzzer = 12;
