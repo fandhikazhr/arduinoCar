@@ -25,7 +25,7 @@ void loop() {
   duration = pulseIn(echoPin, HIGH);
   distance = (duration / 2) / 29.1;
   Serial.println(distance);
-  if (distance < 40) { // distance sensor  
+  if (distance < 50) { // detecting obstacle   
     digitalWrite(buzzer, HIGH);
     delay(200);
     digitalWrite(buzzer, LOW);
