@@ -19,8 +19,6 @@ This Project Using
 
 # Diagram
 
-![image](https://user-images.githubusercontent.com/99522867/163675813-4c2fb363-b09f-483a-b4a8-8b5be5e399ca.png)
-
 ![arduinoCarDiagram](https://user-images.githubusercontent.com/99522867/163716237-411e5adf-b229-4e53-8f1f-e0def0793e5b.png)
 
 # Some Previews
